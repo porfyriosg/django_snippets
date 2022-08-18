@@ -1,7 +1,5 @@
 from django.shortcuts import render
-from xrndlib.utils import TODAY
 
-# Create your views here.
 class Home(object):
     def __init__(self):
         pass
